@@ -8,34 +8,34 @@ global.APIs = {
 
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
-    'https://api.zahwazein.xyz': 'zenzkey_ad0a9acee99f'
+    'https://api.zahwazein.xyz': 'zenzkey_853b56db02'
 }
 global.lolhuman = 'APOLOZEA'
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = '4ᴋꜱᴀɴᴢᴢ-𝙼𝙳'
-global.namaowner = '4ᴋꜱᴀɴᴢᴢ'
+global.namabot = '𝐊𝐮𝐫𝐮𝐦𝐢'
+global.namaowner = '𝐀𝐳𝐫𝐢𝐞𝐥'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281236167286']
-global.ownernomer = "6281236167286"
-global.premium = ['6281236167286']
-global.ultah = 'Maret 24, 2024'
+global.owner = ['6285230273553']
+global.ownernomer = "6285230273553"
+global.premium = ['6285230273553']
+global.ultah = 'Oktober 02, 2111'
 
 //—————「 Setting Donasi 」—————//
-global.dana = '081236167286'
+global.dana = '085230273553'
 
 //—————「 Set Kebutuhan Button 」—————//
-global.email = '4ksanzz123@gmail.com'
+global.email = 'azrielartz3@gmail.com'
 global.namaweb = 'TikTok'
 global.myweb = 'https://tiktok.com/@4ksanzz'
 global.region = 'Indonesia'
-global.github = 'https://github.com/4ksanzz'
+global.github = 'https://github.com/AzrielArtz'
 global.mygc = 'https://chat.whatsapp.com/JiMMaEr083uDQCl9JO0EdX'
 global.myig = 'https://instagram.com/fhl.dx17'
 
 //—————「 Set Wm 」—————//
-global.packname = 'ɪɢ. ꜰʜʟ.ᴅx17'
-global.author = '4ᴋꜱᴀɴᴢᴢ'
+global.packname = '𝐊𝐮𝐫𝐮𝐦𝐢 𝐛𝐨𝐭'
+global.author = '087772214239'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
